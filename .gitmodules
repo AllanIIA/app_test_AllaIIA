@@ -1,0 +1,6 @@
+[submodule "app_test_AllanIIA/libs/lib-test-a_AllanIIA"]
+	path = app_test_AllanIIA/libs/lib-test-a_AllanIIA
+	url = git@github.com:AllanIIA/lib-test-a_AllanIIA.git
+[submodule "app_test_AllanIIA/libs/lib-test-b_AllanIIA"]
+	path = app_test_AllanIIA/libs/lib-test-b_AllanIIA
+	url = git@github.com:AllanIIA/lib-test-b_AllanIIA.git
